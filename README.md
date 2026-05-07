@@ -53,6 +53,22 @@ Paste them directly into your **Among Us** game folder.
 
 ---
 
+> **Linux (Debian/Ubuntu)**  
+> Right-click **Among Us** in your Library  
+> → `Properties`  
+> → Open the `Compatibility` tab  
+> - Enable: Force the use of a specific Steam Play compatibility tool
+
+> → In the select-menu down below choose: Proton Experimental
+
+> Right-click **Among Us** in your Library  
+> → `Manage`  
+> → `Browse local files`
+> - Add all the (unzipped) files you got in the folder you opened.
+
+
+---
+
 ## Launch
 
 Start **Among Us** normally.
