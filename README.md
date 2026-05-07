@@ -58,7 +58,6 @@ Paste them directly into your **Among Us** game folder.
 > → `Properties`  
 > → Open the `Compatibility` tab  
 > - Enable: Force the use of a specific Steam Play compatibility tool
-
 > → In the select-menu down below choose: Proton Experimental
 
 > Right-click **Among Us** in your Library  
