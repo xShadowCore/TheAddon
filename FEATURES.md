@@ -1,5 +1,10 @@
 # 📋 Features
 
+## TheAddon
+| Cheat | Description | Type | Default|
+|------------|-------------|------|--------|
+| GameCrash  | Allows you to CrashGames | Toggle | Off
+
 ## 👱 Player
 
 | Cheat | Description | Type | Default|
